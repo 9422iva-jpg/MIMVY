@@ -18,3 +18,14 @@ BOTÓN
   border-radius:30px;
 
 }
+link rel="stylesheet" href=https:
+
+<img src="../imagenes/buho.ico" alt="Logo">
+
+dentr del header
+<header>  
+  <header>
+
+  <a href="index.html">
+  <img src="imagenes/logo.png" alt="Logo de mi empresa">
+</a>
