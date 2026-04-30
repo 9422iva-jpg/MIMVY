@@ -20,7 +20,7 @@ BOTÓN
 }
 link rel="stylesheet" href=https:
 
-<img src="../imagenes/buho.ico" alt="Logo">
+<img src="buho.ico.png" alt="Logo">
 
 dentr del header
 <header>  
